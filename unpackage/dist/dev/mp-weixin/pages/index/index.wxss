@@ -1,0 +1,11 @@
+
+.wx-nav.data-v-57280228{
+	height: 200rpx;
+	width: 100%;
+	line-height: 200rpx;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
